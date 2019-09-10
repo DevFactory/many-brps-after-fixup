@@ -9,15 +9,136 @@ public class RuleHiddenFieldCheck {
 
     private String privateOne;
     private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    private static String privateTwo;
+    ;;;
     private static final String privateThree = "EMPTY";
 
     public String publicOne;
     public static String publicTwo;
     public static final String publicThree = "EMPTY";
 
-    private ByteArrayInputStream stream = new ByteArrayInputStream(new byte[]{1,2,3});
+    private ByteArrayInputStream stream = new ByteArrayInputStream(new byte[]{1, 2, 3});
 
     public class SimpleInnerClass {
+
         public void methodOne() {
             Short privateOne = 15;
             Integer privateTwo = 3;
@@ -32,7 +153,9 @@ public class RuleHiddenFieldCheck {
     }
 
     public class FirstLevelInner {
+
         public class SecondLevelInner {
+
             public void methodOne() {
                 Double privateOne = 15.3;
                 Short privateTwo = 3;

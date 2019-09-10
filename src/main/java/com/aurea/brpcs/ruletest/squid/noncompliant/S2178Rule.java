@@ -7,6 +7,243 @@ public class S2178Rule {
 		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
 			System.out.println(1);
 		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
+		if (getTrue() | getFalse()) { // Noncompliant; both sides evaluated
+			System.out.println(1);
+		}
 	}
 	
 	public void doCheckBooleanBitwise2() {
